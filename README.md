@@ -33,10 +33,6 @@ The characteristics of each species can be freely adjusted before starting. This
 
 - Another faulty setting could be when a territory can only support a single animal. In this case, even though the animal reproduces, the territory only has space for one individual, so the newborn animal dies immediately. Without offspring, the species will soon go extinct.
 
-## Source code
-
-The source code is currently under review and will be uploaded at a later time.
-
 ## Screenshots
 
 <img src=docs/06.png alt="" width="800">
