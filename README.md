@@ -1,6 +1,11 @@
 # Island v1.0
 
-The application is a simulation program that models the ecosystem of an imaginary island. The goal is to create a food chain involving individuals of three species (grass, grasshoppers and lizards) so that they can survive as long as possible and avoid extinction.
+The application is a simulation program that I developed in 2004, that models the ecosystem of an imaginary island. The goal is to create a food chain involving individuals of three species (grass, grasshoppers, and lizards) so that they can survive as long as possible and avoid extinction. The application was built using the Swing framework.
+
+## Requirements
+Java Runtime Environment (JRE) 1.8
+
+Note: The program is optimized for JRE 1.8 and may not run correctly on newer versions.
 
 ## Life on the Island
 
