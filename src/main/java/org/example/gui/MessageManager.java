@@ -1,6 +1,6 @@
 package org.example.gui;
 
-import org.example.extra.hu.HuOptionPane;
+import hu.extra.HuOptionPane;
 
 import javax.swing.JOptionPane;
 import java.awt.Component;

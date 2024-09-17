@@ -11,7 +11,7 @@
  * 2002.09.01.
  */
 
-package org.example.extra.hu;
+package hu.extra;
 
 import javax.swing.Icon;
 import javax.swing.JFrame;

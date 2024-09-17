@@ -8,7 +8,7 @@
  * Magyar dialógus ablak. show metódusa bekér egy Stringet.
  */
 
-package org.example.extra.hu;
+package hu.extra;
 
 import javax.swing.BorderFactory;
 import javax.swing.ImageIcon;
