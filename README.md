@@ -2,10 +2,12 @@
 
 The application is a simulation program that I developed in 2004, that models the ecosystem of an imaginary island. The goal is to create a food chain involving individuals of three species (grass, grasshoppers, and lizards) so that they can survive as long as possible and avoid extinction. The application was built using the Swing framework.
 
-## Requirements
+## Requirements and Setup
 Java Runtime Environment (JRE) 1.8
 
 Note: The program is optimized for JRE 1.8 and may not run correctly on newer versions.
+
+To start the application, run the `Island.java` file located in the `org.example` package.
 
 ## Life on the Island
 
